@@ -32,6 +32,9 @@ https://github.com/amlkiller/amlkiller-s-v2ray-Subscription/raw/main/SSR.txt
 clash:  
 https://subcon.dlj.tf/sub?target=clash&url=https%3A%2F%2Fgithub.com%2Famlkiller%2Famlkiller-s-v2ray-Subscription%2Fraw%2Fmain%2FCLASH.txt&emoji=true&list=false&sort=false&udp=true&tfo=false&scv=false&append_type=false&fdn=true&new_name=true&group=amlkiller&filename=amlkiller  
 
+### 测速  
+![下载.png](https://pic.baixiongz.com/uploads/2021/06/06/271b6420530b9.png)  
+
 ### CloudFlare Worker网页代理
 这个方法只是用于只想看看Google、YouTube的小伙伴们。  
 无法登陆Google账号等一切账号  
